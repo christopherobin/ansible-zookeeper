@@ -18,6 +18,8 @@ galaxy_info:
 dependencies:
   - role: aeriscloud.repos
     repositories:
+      amazon:
+        - hortonworks
       centos6:
         - hortonworks
       centos7:
